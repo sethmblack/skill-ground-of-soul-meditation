@@ -4,7 +4,8 @@ description: Guide attention inward toward the ground of the soul—the place wh
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4118
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ground-of-soul-meditation
 - transformation
